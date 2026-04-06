@@ -18,7 +18,7 @@ use pumpkin_plugin_api::{
 use tracing::{error, info, warn};
 
 const DB_FILE_NAME: &str = "playtime_pumpkin.db";
-const PERMISSION_PLAYTIME: &str = "playtimepumpkin:command.playtime";
+const PERMISSION_PLAYTIME: &str = "playtime-pumpkin:command.playtime";
 
 fn unix_now() -> u64 {
     SystemTime::now()
