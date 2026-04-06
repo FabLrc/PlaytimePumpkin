@@ -1,0 +1,14 @@
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/deps/serde-93ee76ce407595b3.d: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/build/serde-c48232cb5c13ca9e/out/private.rs
+
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/deps/libserde-93ee76ce407595b3.rlib: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/build/serde-c48232cb5c13ca9e/out/private.rs
+
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/deps/libserde-93ee76ce407595b3.rmeta: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/build/serde-c48232cb5c13ca9e/out/private.rs
+
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/build/serde-c48232cb5c13ca9e/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/debug/build/serde-c48232cb5c13ca9e/out

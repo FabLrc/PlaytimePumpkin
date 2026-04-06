@@ -1,0 +1,14 @@
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/deps/thiserror-a8322997bf63284b.d: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/thiserror-967112d8221a6199/out/private.rs
+
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/deps/libthiserror-a8322997bf63284b.rlib: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/thiserror-967112d8221a6199/out/private.rs
+
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/deps/libthiserror-a8322997bf63284b.rmeta: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/thiserror-967112d8221a6199/out/private.rs
+
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/lib.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/aserror.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/display.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/var.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.18/src/private.rs:
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/thiserror-967112d8221a6199/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/thiserror-967112d8221a6199/out

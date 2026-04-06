@@ -1,0 +1,14 @@
+[package]
+name = "playtime_pumpkin"
+version = "0.1.0"
+edition = "2024"
+
+[lib]
+crate-type = ["cdylib"]
+
+[dependencies]
+pumpkin-plugin-api = { git = "https://github.com/Pumpkin-MC/Pumpkin" }
+tracing = "0.1"
+
+[profile.release]
+lto = true

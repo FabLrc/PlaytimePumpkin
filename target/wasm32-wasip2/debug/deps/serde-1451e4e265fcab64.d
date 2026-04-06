@@ -1,0 +1,14 @@
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/deps/serde-1451e4e265fcab64.d: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/serde-04902cc03a742920/out/private.rs
+
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/deps/libserde-1451e4e265fcab64.rlib: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/serde-04902cc03a742920/out/private.rs
+
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/deps/libserde-1451e4e265fcab64.rmeta: /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/serde-04902cc03a742920/out/private.rs
+
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/Users/fabien/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/serde-04902cc03a742920/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/fabien/Documents/ProjetsDev/PlaytimePumpkin/target/wasm32-wasip2/debug/build/serde-04902cc03a742920/out
