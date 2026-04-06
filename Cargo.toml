@@ -7,7 +7,7 @@ edition = "2024"
 crate-type = ["cdylib"]
 
 [dependencies]
-pumpkin-plugin-api = { git = "https://github.com/Pumpkin-MC/Pumpkin" }
+pumpkin-plugin-api = { path = "vendor/pumpkin-plugin-api" }
 tracing = "0.1"
 
 [profile.release]
