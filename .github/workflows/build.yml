@@ -44,10 +44,23 @@ jobs:
           name: playtime_pumpkin-${{ steps.version.outputs.version }}
           path: playtime_pumpkin-${{ steps.version.outputs.version }}.wasm
 
+      - name: Check if release exists
+        id: check_release
+        if: github.ref == 'refs/heads/main'
+        run: |
+          if gh release view "v${{ steps.version.outputs.version }}" &>/dev/null; then
+            echo "exists=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "exists=false" >> "$GITHUB_OUTPUT"
+          fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Create release
-        if: startsWith(github.ref, 'refs/tags/v')
+        if: github.ref == 'refs/heads/main' && steps.check_release.outputs.exists == 'false'
         uses: softprops/action-gh-release@v2
         with:
+          tag_name: v${{ steps.version.outputs.version }}
           name: v${{ steps.version.outputs.version }}
           files: playtime_pumpkin-${{ steps.version.outputs.version }}.wasm
           make_latest: true
